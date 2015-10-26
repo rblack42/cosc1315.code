@@ -1,0 +1,16 @@
+# Dev-C++
+*.o
+*.dev
+*.win
+*.layout
+*.dev
+*.exe
+
+# Vim
+*.swp
+*~
+
+#Mac
+.DS_Store
+
+
